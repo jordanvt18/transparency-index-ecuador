@@ -1,0 +1,251 @@
+municipio_id_origen,municipio_nombre_origen,municipio_id_similar,municipio_nombre_similar,distancia,ranking_similaridad
+010001,Quito,090001,Guayaquil,1.0562,1
+010001,Quito,030001,Cuenca,1.2048,2
+010001,Quito,130001,Esmeraldas,1.2135,3
+010001,Quito,120001,Santo Domingo,1.2237,4
+010001,Quito,230001,Ambato,1.2273,5
+090001,Guayaquil,010001,Quito,1.0562,1
+090001,Guayaquil,030001,Cuenca,1.0749,2
+090001,Guayaquil,170001,Manta,1.1699,3
+090001,Guayaquil,120001,Santo Domingo,1.2101,4
+090001,Guayaquil,090150,Samborondón,1.2735,5
+030001,Cuenca,120001,Santo Domingo,0.3035,1
+030001,Cuenca,210001,Zamora,0.4792,2
+030001,Cuenca,090050,Daule,0.6145,3
+030001,Cuenca,060470,Jipijapa,0.6151,4
+030001,Cuenca,170001,Manta,0.6579,5
+120001,Santo Domingo,030001,Cuenca,0.3035,1
+120001,Santo Domingo,060470,Jipijapa,0.4047,2
+120001,Santo Domingo,210001,Zamora,0.4187,3
+120001,Santo Domingo,110250,Alausí,0.4406,4
+120001,Santo Domingo,220001,Macas,0.4637,5
+060001,Portoviejo,180230,Pujilí,0.3404,1
+060001,Portoviejo,170230,Pelileo,0.3745,2
+060001,Portoviejo,040350,Saraguro,0.4465,3
+060001,Portoviejo,060170,Chone,0.49,4
+060001,Portoviejo,110170,Guano,0.4988,5
+120001,Machala,180001,Latacunga,0.373,1
+120001,Machala,060170,Chone,0.3918,2
+120001,Machala,020170,Espejo,0.4241,3
+120001,Machala,040001,Loja,0.4439,4
+120001,Machala,040350,Saraguro,0.46,5
+170001,Manta,090150,Samborondón,0.2842,1
+170001,Manta,240001,Francisco de Orellana,0.3148,2
+170001,Manta,090050,Daule,0.3795,3
+170001,Manta,230001,Ambato,0.4279,4
+170001,Manta,130001,Esmeraldas,0.43,5
+230001,Ambato,130001,Esmeraldas,0.1684,1
+230001,Ambato,090050,Daule,0.2436,2
+230001,Ambato,040170,Catamayo,0.3125,3
+230001,Ambato,090150,Samborondón,0.3624,4
+230001,Ambato,010230,Mejía,0.4182,5
+110001,Riobamba,040170,Catamayo,0.3586,1
+110001,Riobamba,090150,Samborondón,0.37,2
+110001,Riobamba,230001,Ambato,0.4272,3
+110001,Riobamba,030170,Girón,0.487,4
+110001,Riobamba,090050,Daule,0.4886,5
+040001,Loja,170450,Baños,0.2277,1
+040001,Loja,020170,Espejo,0.262,2
+040001,Loja,020230,Bolívar,0.2904,3
+040001,Loja,120001,Machala,0.4439,4
+040001,Loja,050001,Babahoyo,0.5219,5
+050001,Babahoyo,190001,Puyo,0.3954,1
+050001,Babahoyo,100350,Cotacachi,0.4762,2
+050001,Babahoyo,020170,Espejo,0.483,3
+050001,Babahoyo,170450,Baños,0.4884,4
+050001,Babahoyo,040001,Loja,0.5219,5
+130001,Esmeraldas,230001,Ambato,0.1684,1
+130001,Esmeraldas,090050,Daule,0.2187,2
+130001,Esmeraldas,030100,Gualaceo,0.3031,3
+130001,Esmeraldas,220001,Macas,0.3358,4
+130001,Esmeraldas,010230,Mejía,0.4073,5
+100001,Ibarra,250001,Aguarico,0.3271,1
+100001,Ibarra,060680,Sucre,0.4573,2
+100001,Ibarra,140001,Nueva Loja,0.6138,3
+100001,Ibarra,160170,Buena Fe,0.6596,4
+100001,Ibarra,060470,Jipijapa,0.7448,5
+180001,Latacunga,060170,Chone,0.1952,1
+180001,Latacunga,040350,Saraguro,0.3059,2
+180001,Latacunga,100170,Otavalo,0.3187,3
+180001,Latacunga,120001,Machala,0.373,4
+180001,Latacunga,030170,Girón,0.3826,5
+160001,Quevedo,180350,Salcedo,0.4351,1
+160001,Quevedo,100170,Otavalo,0.4435,2
+160001,Quevedo,040350,Saraguro,0.681,3
+160001,Quevedo,180001,Latacunga,0.7187,4
+160001,Quevedo,210001,Zamora,0.7364,5
+020001,Tulcán,110170,Guano,0.2403,1
+020001,Tulcán,200001,Tena,0.3422,2
+020001,Tulcán,030100,Gualaceo,0.374,3
+020001,Tulcán,130001,Esmeraldas,0.4301,4
+020001,Tulcán,180230,Pujilí,0.4404,5
+140001,Nueva Loja,010170,Cayambe,0.3334,1
+140001,Nueva Loja,090110,Milagro,0.3377,2
+140001,Nueva Loja,160170,Buena Fe,0.358,3
+140001,Nueva Loja,250001,Aguarico,0.4304,4
+140001,Nueva Loja,110170,Guano,0.4496,5
+150001,Santa Elena,100350,Cotacachi,0.263,1
+150001,Santa Elena,190001,Puyo,0.4133,2
+150001,Santa Elena,020170,Espejo,0.521,3
+150001,Santa Elena,210001,Zamora,0.5353,4
+150001,Santa Elena,050001,Babahoyo,0.5604,5
+190001,Puyo,050001,Babahoyo,0.3954,1
+190001,Puyo,150001,Santa Elena,0.4133,2
+190001,Puyo,100350,Cotacachi,0.5154,3
+190001,Puyo,060680,Sucre,0.5311,4
+190001,Puyo,020170,Espejo,0.6769,5
+200001,Tena,110170,Guano,0.3387,1
+200001,Tena,020001,Tulcán,0.3422,2
+200001,Tena,180230,Pujilí,0.3788,3
+200001,Tena,030100,Gualaceo,0.3851,4
+200001,Tena,220001,Macas,0.4532,5
+210001,Zamora,090050,Daule,0.2717,1
+210001,Zamora,090150,Samborondón,0.3715,2
+210001,Zamora,120001,Santo Domingo,0.4187,3
+210001,Zamora,100350,Cotacachi,0.4296,4
+210001,Zamora,170001,Manta,0.437,5
+220001,Macas,030100,Gualaceo,0.1193,1
+220001,Macas,060470,Jipijapa,0.1532,2
+220001,Macas,130001,Esmeraldas,0.3358,3
+220001,Macas,110250,Alausí,0.3451,4
+220001,Macas,010450,Rumiñahui,0.3553,5
+240001,Francisco de Orellana,170001,Manta,0.3148,1
+240001,Francisco de Orellana,090150,Samborondón,0.3443,2
+240001,Francisco de Orellana,090050,Daule,0.4608,3
+240001,Francisco de Orellana,040170,Catamayo,0.4715,4
+240001,Francisco de Orellana,210001,Zamora,0.505,5
+250001,Aguarico,100001,Ibarra,0.3271,1
+250001,Aguarico,140001,Nueva Loja,0.4304,2
+250001,Aguarico,060470,Jipijapa,0.5307,3
+250001,Aguarico,160170,Buena Fe,0.6178,4
+250001,Aguarico,060680,Sucre,0.6324,5
+010170,Cayambe,160170,Buena Fe,0.2622,1
+010170,Cayambe,140001,Nueva Loja,0.3334,2
+010170,Cayambe,090110,Milagro,0.3923,3
+010170,Cayambe,010230,Mejía,0.5162,4
+010170,Cayambe,130350,Atacames,0.5602,5
+010230,Mejía,040170,Catamayo,0.3989,1
+010230,Mejía,130001,Esmeraldas,0.4073,2
+010230,Mejía,230001,Ambato,0.4182,3
+010230,Mejía,020001,Tulcán,0.4894,4
+010230,Mejía,160170,Buena Fe,0.5107,5
+010450,Rumiñahui,110250,Alausí,0.3016,1
+010450,Rumiñahui,060470,Jipijapa,0.3238,2
+010450,Rumiñahui,220001,Macas,0.3553,3
+010450,Rumiñahui,030100,Gualaceo,0.4236,4
+010450,Rumiñahui,120001,Santo Domingo,0.5216,5
+090050,Daule,130001,Esmeraldas,0.2187,1
+090050,Daule,230001,Ambato,0.2436,2
+090050,Daule,210001,Zamora,0.2717,3
+090050,Daule,090150,Samborondón,0.3123,4
+090050,Daule,220001,Macas,0.3766,5
+090110,Milagro,140001,Nueva Loja,0.3377,1
+090110,Milagro,010170,Cayambe,0.3923,2
+090110,Milagro,110170,Guano,0.4429,3
+090110,Milagro,160170,Buena Fe,0.5711,4
+090110,Milagro,020001,Tulcán,0.5873,5
+090150,Samborondón,170001,Manta,0.2842,1
+090150,Samborondón,040170,Catamayo,0.2877,2
+090150,Samborondón,090050,Daule,0.3123,3
+090150,Samborondón,240001,Francisco de Orellana,0.3443,4
+090150,Samborondón,230001,Ambato,0.3624,5
+030170,Girón,120350,La Concordia,0.3055,1
+030170,Girón,130350,Atacames,0.3267,2
+030170,Girón,180001,Latacunga,0.3826,3
+030170,Girón,060170,Chone,0.3911,4
+030170,Girón,120001,Machala,0.4738,5
+030100,Gualaceo,220001,Macas,0.1193,1
+030100,Gualaceo,060470,Jipijapa,0.263,2
+030100,Gualaceo,130001,Esmeraldas,0.3031,3
+030100,Gualaceo,020001,Tulcán,0.374,4
+030100,Gualaceo,200001,Tena,0.3851,5
+120350,La Concordia,130350,Atacames,0.2304,1
+120350,La Concordia,030170,Girón,0.3055,2
+120350,La Concordia,040170,Catamayo,0.4319,3
+120350,La Concordia,110001,Riobamba,0.5133,4
+120350,La Concordia,060170,Chone,0.5654,5
+130350,Atacames,120350,La Concordia,0.2304,1
+130350,Atacames,030170,Girón,0.3267,2
+130350,Atacames,160170,Buena Fe,0.4206,3
+130350,Atacames,060170,Chone,0.5004,4
+130350,Atacames,120001,Machala,0.5095,5
+060170,Chone,040350,Saraguro,0.1783,1
+060170,Chone,180001,Latacunga,0.1952,2
+060170,Chone,100170,Otavalo,0.3812,3
+060170,Chone,030170,Girón,0.3911,4
+060170,Chone,120001,Machala,0.3918,5
+060470,Jipijapa,220001,Macas,0.1532,1
+060470,Jipijapa,030100,Gualaceo,0.263,2
+060470,Jipijapa,010450,Rumiñahui,0.3238,3
+060470,Jipijapa,090050,Daule,0.38,4
+060470,Jipijapa,110250,Alausí,0.3857,5
+060680,Sucre,100001,Ibarra,0.4573,1
+060680,Sucre,160170,Buena Fe,0.4848,2
+060680,Sucre,190001,Puyo,0.5311,3
+060680,Sucre,050001,Babahoyo,0.5699,4
+060680,Sucre,150001,Santa Elena,0.6089,5
+170230,Pelileo,060001,Portoviejo,0.3745,1
+170230,Pelileo,120001,Machala,0.5133,2
+170230,Pelileo,180230,Pujilí,0.562,3
+170230,Pelileo,180001,Latacunga,0.5943,4
+170230,Pelileo,040001,Loja,0.5961,5
+170450,Baños,020170,Espejo,0.1885,1
+170450,Baños,040001,Loja,0.2277,2
+170450,Baños,020230,Bolívar,0.3919,3
+170450,Baños,120001,Machala,0.4636,4
+170450,Baños,050001,Babahoyo,0.4884,5
+110250,Alausí,010450,Rumiñahui,0.3016,1
+110250,Alausí,220001,Macas,0.3451,2
+110250,Alausí,060470,Jipijapa,0.3857,3
+110250,Alausí,030100,Gualaceo,0.4016,4
+110250,Alausí,120001,Santo Domingo,0.4406,5
+110170,Guano,020001,Tulcán,0.2403,1
+110170,Guano,180230,Pujilí,0.2769,2
+110170,Guano,200001,Tena,0.3387,3
+110170,Guano,040350,Saraguro,0.42,4
+110170,Guano,090110,Milagro,0.4429,5
+040170,Catamayo,090150,Samborondón,0.2877,1
+040170,Catamayo,230001,Ambato,0.3125,2
+040170,Catamayo,110001,Riobamba,0.3586,3
+040170,Catamayo,010230,Mejía,0.3989,4
+040170,Catamayo,090050,Daule,0.4189,5
+040350,Saraguro,060170,Chone,0.1783,1
+040350,Saraguro,180230,Pujilí,0.2897,2
+040350,Saraguro,180001,Latacunga,0.3059,3
+040350,Saraguro,100170,Otavalo,0.3426,4
+040350,Saraguro,110170,Guano,0.42,5
+020170,Espejo,170450,Baños,0.1885,1
+020170,Espejo,040001,Loja,0.262,2
+020170,Espejo,100350,Cotacachi,0.3661,3
+020170,Espejo,120001,Machala,0.4241,4
+020170,Espejo,210001,Zamora,0.453,5
+020230,Bolívar,040001,Loja,0.2904,1
+020230,Bolívar,170450,Baños,0.3919,2
+020230,Bolívar,020170,Espejo,0.4614,3
+020230,Bolívar,050001,Babahoyo,0.6815,4
+020230,Bolívar,250001,Aguarico,0.6916,5
+180230,Pujilí,110170,Guano,0.2769,1
+180230,Pujilí,040350,Saraguro,0.2897,2
+180230,Pujilí,060001,Portoviejo,0.3404,3
+180230,Pujilí,200001,Tena,0.3788,4
+180230,Pujilí,060170,Chone,0.4314,5
+180350,Salcedo,100170,Otavalo,0.2711,1
+180350,Salcedo,160001,Quevedo,0.4351,2
+180350,Salcedo,180001,Latacunga,0.4635,3
+180350,Salcedo,060170,Chone,0.534,4
+180350,Salcedo,040350,Saraguro,0.5395,5
+100170,Otavalo,180350,Salcedo,0.2711,1
+100170,Otavalo,180001,Latacunga,0.3187,2
+100170,Otavalo,040350,Saraguro,0.3426,3
+100170,Otavalo,060170,Chone,0.3812,4
+100170,Otavalo,160001,Quevedo,0.4435,5
+100350,Cotacachi,150001,Santa Elena,0.263,1
+100350,Cotacachi,020170,Espejo,0.3661,2
+100350,Cotacachi,210001,Zamora,0.4296,3
+100350,Cotacachi,090150,Samborondón,0.4575,4
+100350,Cotacachi,050001,Babahoyo,0.4762,5
+160170,Buena Fe,010170,Cayambe,0.2622,1
+160170,Buena Fe,140001,Nueva Loja,0.358,2
+160170,Buena Fe,130350,Atacames,0.4206,3
+160170,Buena Fe,060680,Sucre,0.4848,4
+160170,Buena Fe,010230,Mejía,0.5107,5

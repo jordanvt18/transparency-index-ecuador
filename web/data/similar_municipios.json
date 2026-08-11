@@ -1,0 +1,2002 @@
+[
+  {
+    "municipio_id_origen": "010001",
+    "municipio_nombre_origen": "Quito",
+    "municipio_id_similar": "090001",
+    "municipio_nombre_similar": "Guayaquil",
+    "distancia": 1.0562,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "010001",
+    "municipio_nombre_origen": "Quito",
+    "municipio_id_similar": "030001",
+    "municipio_nombre_similar": "Cuenca",
+    "distancia": 1.2048,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "010001",
+    "municipio_nombre_origen": "Quito",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 1.2135,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "010001",
+    "municipio_nombre_origen": "Quito",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Santo Domingo",
+    "distancia": 1.2237,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "010001",
+    "municipio_nombre_origen": "Quito",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 1.2273,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "090001",
+    "municipio_nombre_origen": "Guayaquil",
+    "municipio_id_similar": "010001",
+    "municipio_nombre_similar": "Quito",
+    "distancia": 1.0562,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "090001",
+    "municipio_nombre_origen": "Guayaquil",
+    "municipio_id_similar": "030001",
+    "municipio_nombre_similar": "Cuenca",
+    "distancia": 1.0749,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "090001",
+    "municipio_nombre_origen": "Guayaquil",
+    "municipio_id_similar": "170001",
+    "municipio_nombre_similar": "Manta",
+    "distancia": 1.1699,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "090001",
+    "municipio_nombre_origen": "Guayaquil",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Santo Domingo",
+    "distancia": 1.2101,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "090001",
+    "municipio_nombre_origen": "Guayaquil",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 1.2735,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "030001",
+    "municipio_nombre_origen": "Cuenca",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Santo Domingo",
+    "distancia": 0.3035,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "030001",
+    "municipio_nombre_origen": "Cuenca",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.4792,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "030001",
+    "municipio_nombre_origen": "Cuenca",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.6145,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "030001",
+    "municipio_nombre_origen": "Cuenca",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.6151,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "030001",
+    "municipio_nombre_origen": "Cuenca",
+    "municipio_id_similar": "170001",
+    "municipio_nombre_similar": "Manta",
+    "distancia": 0.6579,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Santo Domingo",
+    "municipio_id_similar": "030001",
+    "municipio_nombre_similar": "Cuenca",
+    "distancia": 0.3035,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Santo Domingo",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.4047,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Santo Domingo",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.4187,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Santo Domingo",
+    "municipio_id_similar": "110250",
+    "municipio_nombre_similar": "Alausí",
+    "distancia": 0.4406,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Santo Domingo",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.4637,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "060001",
+    "municipio_nombre_origen": "Portoviejo",
+    "municipio_id_similar": "180230",
+    "municipio_nombre_similar": "Pujilí",
+    "distancia": 0.3404,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "060001",
+    "municipio_nombre_origen": "Portoviejo",
+    "municipio_id_similar": "170230",
+    "municipio_nombre_similar": "Pelileo",
+    "distancia": 0.3745,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "060001",
+    "municipio_nombre_origen": "Portoviejo",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.4465,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "060001",
+    "municipio_nombre_origen": "Portoviejo",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.49,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "060001",
+    "municipio_nombre_origen": "Portoviejo",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.4988,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Machala",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.373,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Machala",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.3918,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Machala",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.4241,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Machala",
+    "municipio_id_similar": "040001",
+    "municipio_nombre_similar": "Loja",
+    "distancia": 0.4439,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "120001",
+    "municipio_nombre_origen": "Machala",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.46,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "170001",
+    "municipio_nombre_origen": "Manta",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.2842,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "170001",
+    "municipio_nombre_origen": "Manta",
+    "municipio_id_similar": "240001",
+    "municipio_nombre_similar": "Francisco de Orellana",
+    "distancia": 0.3148,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "170001",
+    "municipio_nombre_origen": "Manta",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.3795,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "170001",
+    "municipio_nombre_origen": "Manta",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.4279,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "170001",
+    "municipio_nombre_origen": "Manta",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.43,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "230001",
+    "municipio_nombre_origen": "Ambato",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.1684,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "230001",
+    "municipio_nombre_origen": "Ambato",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.2436,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "230001",
+    "municipio_nombre_origen": "Ambato",
+    "municipio_id_similar": "040170",
+    "municipio_nombre_similar": "Catamayo",
+    "distancia": 0.3125,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "230001",
+    "municipio_nombre_origen": "Ambato",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.3624,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "230001",
+    "municipio_nombre_origen": "Ambato",
+    "municipio_id_similar": "010230",
+    "municipio_nombre_similar": "Mejía",
+    "distancia": 0.4182,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "110001",
+    "municipio_nombre_origen": "Riobamba",
+    "municipio_id_similar": "040170",
+    "municipio_nombre_similar": "Catamayo",
+    "distancia": 0.3586,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "110001",
+    "municipio_nombre_origen": "Riobamba",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.37,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "110001",
+    "municipio_nombre_origen": "Riobamba",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.4272,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "110001",
+    "municipio_nombre_origen": "Riobamba",
+    "municipio_id_similar": "030170",
+    "municipio_nombre_similar": "Girón",
+    "distancia": 0.487,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "110001",
+    "municipio_nombre_origen": "Riobamba",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.4886,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "040001",
+    "municipio_nombre_origen": "Loja",
+    "municipio_id_similar": "170450",
+    "municipio_nombre_similar": "Baños",
+    "distancia": 0.2277,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "040001",
+    "municipio_nombre_origen": "Loja",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.262,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "040001",
+    "municipio_nombre_origen": "Loja",
+    "municipio_id_similar": "020230",
+    "municipio_nombre_similar": "Bolívar",
+    "distancia": 0.2904,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "040001",
+    "municipio_nombre_origen": "Loja",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.4439,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "040001",
+    "municipio_nombre_origen": "Loja",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.5219,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "050001",
+    "municipio_nombre_origen": "Babahoyo",
+    "municipio_id_similar": "190001",
+    "municipio_nombre_similar": "Puyo",
+    "distancia": 0.3954,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "050001",
+    "municipio_nombre_origen": "Babahoyo",
+    "municipio_id_similar": "100350",
+    "municipio_nombre_similar": "Cotacachi",
+    "distancia": 0.4762,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "050001",
+    "municipio_nombre_origen": "Babahoyo",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.483,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "050001",
+    "municipio_nombre_origen": "Babahoyo",
+    "municipio_id_similar": "170450",
+    "municipio_nombre_similar": "Baños",
+    "distancia": 0.4884,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "050001",
+    "municipio_nombre_origen": "Babahoyo",
+    "municipio_id_similar": "040001",
+    "municipio_nombre_similar": "Loja",
+    "distancia": 0.5219,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "130001",
+    "municipio_nombre_origen": "Esmeraldas",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.1684,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "130001",
+    "municipio_nombre_origen": "Esmeraldas",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.2187,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "130001",
+    "municipio_nombre_origen": "Esmeraldas",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.3031,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "130001",
+    "municipio_nombre_origen": "Esmeraldas",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.3358,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "130001",
+    "municipio_nombre_origen": "Esmeraldas",
+    "municipio_id_similar": "010230",
+    "municipio_nombre_similar": "Mejía",
+    "distancia": 0.4073,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "100001",
+    "municipio_nombre_origen": "Ibarra",
+    "municipio_id_similar": "250001",
+    "municipio_nombre_similar": "Aguarico",
+    "distancia": 0.3271,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "100001",
+    "municipio_nombre_origen": "Ibarra",
+    "municipio_id_similar": "060680",
+    "municipio_nombre_similar": "Sucre",
+    "distancia": 0.4573,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "100001",
+    "municipio_nombre_origen": "Ibarra",
+    "municipio_id_similar": "140001",
+    "municipio_nombre_similar": "Nueva Loja",
+    "distancia": 0.6138,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "100001",
+    "municipio_nombre_origen": "Ibarra",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.6596,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "100001",
+    "municipio_nombre_origen": "Ibarra",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.7448,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "180001",
+    "municipio_nombre_origen": "Latacunga",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.1952,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "180001",
+    "municipio_nombre_origen": "Latacunga",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.3059,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "180001",
+    "municipio_nombre_origen": "Latacunga",
+    "municipio_id_similar": "100170",
+    "municipio_nombre_similar": "Otavalo",
+    "distancia": 0.3187,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "180001",
+    "municipio_nombre_origen": "Latacunga",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.373,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "180001",
+    "municipio_nombre_origen": "Latacunga",
+    "municipio_id_similar": "030170",
+    "municipio_nombre_similar": "Girón",
+    "distancia": 0.3826,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "160001",
+    "municipio_nombre_origen": "Quevedo",
+    "municipio_id_similar": "180350",
+    "municipio_nombre_similar": "Salcedo",
+    "distancia": 0.4351,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "160001",
+    "municipio_nombre_origen": "Quevedo",
+    "municipio_id_similar": "100170",
+    "municipio_nombre_similar": "Otavalo",
+    "distancia": 0.4435,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "160001",
+    "municipio_nombre_origen": "Quevedo",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.681,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "160001",
+    "municipio_nombre_origen": "Quevedo",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.7187,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "160001",
+    "municipio_nombre_origen": "Quevedo",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.7364,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "020001",
+    "municipio_nombre_origen": "Tulcán",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.2403,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "020001",
+    "municipio_nombre_origen": "Tulcán",
+    "municipio_id_similar": "200001",
+    "municipio_nombre_similar": "Tena",
+    "distancia": 0.3422,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "020001",
+    "municipio_nombre_origen": "Tulcán",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.374,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "020001",
+    "municipio_nombre_origen": "Tulcán",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.4301,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "020001",
+    "municipio_nombre_origen": "Tulcán",
+    "municipio_id_similar": "180230",
+    "municipio_nombre_similar": "Pujilí",
+    "distancia": 0.4404,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "140001",
+    "municipio_nombre_origen": "Nueva Loja",
+    "municipio_id_similar": "010170",
+    "municipio_nombre_similar": "Cayambe",
+    "distancia": 0.3334,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "140001",
+    "municipio_nombre_origen": "Nueva Loja",
+    "municipio_id_similar": "090110",
+    "municipio_nombre_similar": "Milagro",
+    "distancia": 0.3377,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "140001",
+    "municipio_nombre_origen": "Nueva Loja",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.358,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "140001",
+    "municipio_nombre_origen": "Nueva Loja",
+    "municipio_id_similar": "250001",
+    "municipio_nombre_similar": "Aguarico",
+    "distancia": 0.4304,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "140001",
+    "municipio_nombre_origen": "Nueva Loja",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.4496,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "150001",
+    "municipio_nombre_origen": "Santa Elena",
+    "municipio_id_similar": "100350",
+    "municipio_nombre_similar": "Cotacachi",
+    "distancia": 0.263,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "150001",
+    "municipio_nombre_origen": "Santa Elena",
+    "municipio_id_similar": "190001",
+    "municipio_nombre_similar": "Puyo",
+    "distancia": 0.4133,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "150001",
+    "municipio_nombre_origen": "Santa Elena",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.521,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "150001",
+    "municipio_nombre_origen": "Santa Elena",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.5353,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "150001",
+    "municipio_nombre_origen": "Santa Elena",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.5604,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "190001",
+    "municipio_nombre_origen": "Puyo",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.3954,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "190001",
+    "municipio_nombre_origen": "Puyo",
+    "municipio_id_similar": "150001",
+    "municipio_nombre_similar": "Santa Elena",
+    "distancia": 0.4133,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "190001",
+    "municipio_nombre_origen": "Puyo",
+    "municipio_id_similar": "100350",
+    "municipio_nombre_similar": "Cotacachi",
+    "distancia": 0.5154,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "190001",
+    "municipio_nombre_origen": "Puyo",
+    "municipio_id_similar": "060680",
+    "municipio_nombre_similar": "Sucre",
+    "distancia": 0.5311,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "190001",
+    "municipio_nombre_origen": "Puyo",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.6769,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "200001",
+    "municipio_nombre_origen": "Tena",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.3387,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "200001",
+    "municipio_nombre_origen": "Tena",
+    "municipio_id_similar": "020001",
+    "municipio_nombre_similar": "Tulcán",
+    "distancia": 0.3422,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "200001",
+    "municipio_nombre_origen": "Tena",
+    "municipio_id_similar": "180230",
+    "municipio_nombre_similar": "Pujilí",
+    "distancia": 0.3788,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "200001",
+    "municipio_nombre_origen": "Tena",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.3851,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "200001",
+    "municipio_nombre_origen": "Tena",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.4532,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "210001",
+    "municipio_nombre_origen": "Zamora",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.2717,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "210001",
+    "municipio_nombre_origen": "Zamora",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.3715,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "210001",
+    "municipio_nombre_origen": "Zamora",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Santo Domingo",
+    "distancia": 0.4187,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "210001",
+    "municipio_nombre_origen": "Zamora",
+    "municipio_id_similar": "100350",
+    "municipio_nombre_similar": "Cotacachi",
+    "distancia": 0.4296,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "210001",
+    "municipio_nombre_origen": "Zamora",
+    "municipio_id_similar": "170001",
+    "municipio_nombre_similar": "Manta",
+    "distancia": 0.437,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "220001",
+    "municipio_nombre_origen": "Macas",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.1193,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "220001",
+    "municipio_nombre_origen": "Macas",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.1532,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "220001",
+    "municipio_nombre_origen": "Macas",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.3358,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "220001",
+    "municipio_nombre_origen": "Macas",
+    "municipio_id_similar": "110250",
+    "municipio_nombre_similar": "Alausí",
+    "distancia": 0.3451,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "220001",
+    "municipio_nombre_origen": "Macas",
+    "municipio_id_similar": "010450",
+    "municipio_nombre_similar": "Rumiñahui",
+    "distancia": 0.3553,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "240001",
+    "municipio_nombre_origen": "Francisco de Orellana",
+    "municipio_id_similar": "170001",
+    "municipio_nombre_similar": "Manta",
+    "distancia": 0.3148,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "240001",
+    "municipio_nombre_origen": "Francisco de Orellana",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.3443,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "240001",
+    "municipio_nombre_origen": "Francisco de Orellana",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.4608,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "240001",
+    "municipio_nombre_origen": "Francisco de Orellana",
+    "municipio_id_similar": "040170",
+    "municipio_nombre_similar": "Catamayo",
+    "distancia": 0.4715,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "240001",
+    "municipio_nombre_origen": "Francisco de Orellana",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.505,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "250001",
+    "municipio_nombre_origen": "Aguarico",
+    "municipio_id_similar": "100001",
+    "municipio_nombre_similar": "Ibarra",
+    "distancia": 0.3271,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "250001",
+    "municipio_nombre_origen": "Aguarico",
+    "municipio_id_similar": "140001",
+    "municipio_nombre_similar": "Nueva Loja",
+    "distancia": 0.4304,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "250001",
+    "municipio_nombre_origen": "Aguarico",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.5307,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "250001",
+    "municipio_nombre_origen": "Aguarico",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.6178,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "250001",
+    "municipio_nombre_origen": "Aguarico",
+    "municipio_id_similar": "060680",
+    "municipio_nombre_similar": "Sucre",
+    "distancia": 0.6324,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "010170",
+    "municipio_nombre_origen": "Cayambe",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.2622,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "010170",
+    "municipio_nombre_origen": "Cayambe",
+    "municipio_id_similar": "140001",
+    "municipio_nombre_similar": "Nueva Loja",
+    "distancia": 0.3334,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "010170",
+    "municipio_nombre_origen": "Cayambe",
+    "municipio_id_similar": "090110",
+    "municipio_nombre_similar": "Milagro",
+    "distancia": 0.3923,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "010170",
+    "municipio_nombre_origen": "Cayambe",
+    "municipio_id_similar": "010230",
+    "municipio_nombre_similar": "Mejía",
+    "distancia": 0.5162,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "010170",
+    "municipio_nombre_origen": "Cayambe",
+    "municipio_id_similar": "130350",
+    "municipio_nombre_similar": "Atacames",
+    "distancia": 0.5602,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "010230",
+    "municipio_nombre_origen": "Mejía",
+    "municipio_id_similar": "040170",
+    "municipio_nombre_similar": "Catamayo",
+    "distancia": 0.3989,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "010230",
+    "municipio_nombre_origen": "Mejía",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.4073,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "010230",
+    "municipio_nombre_origen": "Mejía",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.4182,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "010230",
+    "municipio_nombre_origen": "Mejía",
+    "municipio_id_similar": "020001",
+    "municipio_nombre_similar": "Tulcán",
+    "distancia": 0.4894,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "010230",
+    "municipio_nombre_origen": "Mejía",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.5107,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "010450",
+    "municipio_nombre_origen": "Rumiñahui",
+    "municipio_id_similar": "110250",
+    "municipio_nombre_similar": "Alausí",
+    "distancia": 0.3016,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "010450",
+    "municipio_nombre_origen": "Rumiñahui",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.3238,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "010450",
+    "municipio_nombre_origen": "Rumiñahui",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.3553,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "010450",
+    "municipio_nombre_origen": "Rumiñahui",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.4236,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "010450",
+    "municipio_nombre_origen": "Rumiñahui",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Santo Domingo",
+    "distancia": 0.5216,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "090050",
+    "municipio_nombre_origen": "Daule",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.2187,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "090050",
+    "municipio_nombre_origen": "Daule",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.2436,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "090050",
+    "municipio_nombre_origen": "Daule",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.2717,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "090050",
+    "municipio_nombre_origen": "Daule",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.3123,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "090050",
+    "municipio_nombre_origen": "Daule",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.3766,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "090110",
+    "municipio_nombre_origen": "Milagro",
+    "municipio_id_similar": "140001",
+    "municipio_nombre_similar": "Nueva Loja",
+    "distancia": 0.3377,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "090110",
+    "municipio_nombre_origen": "Milagro",
+    "municipio_id_similar": "010170",
+    "municipio_nombre_similar": "Cayambe",
+    "distancia": 0.3923,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "090110",
+    "municipio_nombre_origen": "Milagro",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.4429,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "090110",
+    "municipio_nombre_origen": "Milagro",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.5711,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "090110",
+    "municipio_nombre_origen": "Milagro",
+    "municipio_id_similar": "020001",
+    "municipio_nombre_similar": "Tulcán",
+    "distancia": 0.5873,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "090150",
+    "municipio_nombre_origen": "Samborondón",
+    "municipio_id_similar": "170001",
+    "municipio_nombre_similar": "Manta",
+    "distancia": 0.2842,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "090150",
+    "municipio_nombre_origen": "Samborondón",
+    "municipio_id_similar": "040170",
+    "municipio_nombre_similar": "Catamayo",
+    "distancia": 0.2877,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "090150",
+    "municipio_nombre_origen": "Samborondón",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.3123,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "090150",
+    "municipio_nombre_origen": "Samborondón",
+    "municipio_id_similar": "240001",
+    "municipio_nombre_similar": "Francisco de Orellana",
+    "distancia": 0.3443,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "090150",
+    "municipio_nombre_origen": "Samborondón",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.3624,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "030170",
+    "municipio_nombre_origen": "Girón",
+    "municipio_id_similar": "120350",
+    "municipio_nombre_similar": "La Concordia",
+    "distancia": 0.3055,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "030170",
+    "municipio_nombre_origen": "Girón",
+    "municipio_id_similar": "130350",
+    "municipio_nombre_similar": "Atacames",
+    "distancia": 0.3267,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "030170",
+    "municipio_nombre_origen": "Girón",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.3826,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "030170",
+    "municipio_nombre_origen": "Girón",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.3911,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "030170",
+    "municipio_nombre_origen": "Girón",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.4738,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "030100",
+    "municipio_nombre_origen": "Gualaceo",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.1193,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "030100",
+    "municipio_nombre_origen": "Gualaceo",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.263,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "030100",
+    "municipio_nombre_origen": "Gualaceo",
+    "municipio_id_similar": "130001",
+    "municipio_nombre_similar": "Esmeraldas",
+    "distancia": 0.3031,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "030100",
+    "municipio_nombre_origen": "Gualaceo",
+    "municipio_id_similar": "020001",
+    "municipio_nombre_similar": "Tulcán",
+    "distancia": 0.374,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "030100",
+    "municipio_nombre_origen": "Gualaceo",
+    "municipio_id_similar": "200001",
+    "municipio_nombre_similar": "Tena",
+    "distancia": 0.3851,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "120350",
+    "municipio_nombre_origen": "La Concordia",
+    "municipio_id_similar": "130350",
+    "municipio_nombre_similar": "Atacames",
+    "distancia": 0.2304,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "120350",
+    "municipio_nombre_origen": "La Concordia",
+    "municipio_id_similar": "030170",
+    "municipio_nombre_similar": "Girón",
+    "distancia": 0.3055,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "120350",
+    "municipio_nombre_origen": "La Concordia",
+    "municipio_id_similar": "040170",
+    "municipio_nombre_similar": "Catamayo",
+    "distancia": 0.4319,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "120350",
+    "municipio_nombre_origen": "La Concordia",
+    "municipio_id_similar": "110001",
+    "municipio_nombre_similar": "Riobamba",
+    "distancia": 0.5133,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "120350",
+    "municipio_nombre_origen": "La Concordia",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.5654,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "130350",
+    "municipio_nombre_origen": "Atacames",
+    "municipio_id_similar": "120350",
+    "municipio_nombre_similar": "La Concordia",
+    "distancia": 0.2304,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "130350",
+    "municipio_nombre_origen": "Atacames",
+    "municipio_id_similar": "030170",
+    "municipio_nombre_similar": "Girón",
+    "distancia": 0.3267,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "130350",
+    "municipio_nombre_origen": "Atacames",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.4206,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "130350",
+    "municipio_nombre_origen": "Atacames",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.5004,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "130350",
+    "municipio_nombre_origen": "Atacames",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.5095,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "060170",
+    "municipio_nombre_origen": "Chone",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.1783,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "060170",
+    "municipio_nombre_origen": "Chone",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.1952,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "060170",
+    "municipio_nombre_origen": "Chone",
+    "municipio_id_similar": "100170",
+    "municipio_nombre_similar": "Otavalo",
+    "distancia": 0.3812,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "060170",
+    "municipio_nombre_origen": "Chone",
+    "municipio_id_similar": "030170",
+    "municipio_nombre_similar": "Girón",
+    "distancia": 0.3911,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "060170",
+    "municipio_nombre_origen": "Chone",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.3918,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "060470",
+    "municipio_nombre_origen": "Jipijapa",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.1532,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "060470",
+    "municipio_nombre_origen": "Jipijapa",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.263,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "060470",
+    "municipio_nombre_origen": "Jipijapa",
+    "municipio_id_similar": "010450",
+    "municipio_nombre_similar": "Rumiñahui",
+    "distancia": 0.3238,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "060470",
+    "municipio_nombre_origen": "Jipijapa",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.38,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "060470",
+    "municipio_nombre_origen": "Jipijapa",
+    "municipio_id_similar": "110250",
+    "municipio_nombre_similar": "Alausí",
+    "distancia": 0.3857,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "060680",
+    "municipio_nombre_origen": "Sucre",
+    "municipio_id_similar": "100001",
+    "municipio_nombre_similar": "Ibarra",
+    "distancia": 0.4573,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "060680",
+    "municipio_nombre_origen": "Sucre",
+    "municipio_id_similar": "160170",
+    "municipio_nombre_similar": "Buena Fe",
+    "distancia": 0.4848,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "060680",
+    "municipio_nombre_origen": "Sucre",
+    "municipio_id_similar": "190001",
+    "municipio_nombre_similar": "Puyo",
+    "distancia": 0.5311,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "060680",
+    "municipio_nombre_origen": "Sucre",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.5699,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "060680",
+    "municipio_nombre_origen": "Sucre",
+    "municipio_id_similar": "150001",
+    "municipio_nombre_similar": "Santa Elena",
+    "distancia": 0.6089,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "170230",
+    "municipio_nombre_origen": "Pelileo",
+    "municipio_id_similar": "060001",
+    "municipio_nombre_similar": "Portoviejo",
+    "distancia": 0.3745,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "170230",
+    "municipio_nombre_origen": "Pelileo",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.5133,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "170230",
+    "municipio_nombre_origen": "Pelileo",
+    "municipio_id_similar": "180230",
+    "municipio_nombre_similar": "Pujilí",
+    "distancia": 0.562,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "170230",
+    "municipio_nombre_origen": "Pelileo",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.5943,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "170230",
+    "municipio_nombre_origen": "Pelileo",
+    "municipio_id_similar": "040001",
+    "municipio_nombre_similar": "Loja",
+    "distancia": 0.5961,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "170450",
+    "municipio_nombre_origen": "Baños",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.1885,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "170450",
+    "municipio_nombre_origen": "Baños",
+    "municipio_id_similar": "040001",
+    "municipio_nombre_similar": "Loja",
+    "distancia": 0.2277,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "170450",
+    "municipio_nombre_origen": "Baños",
+    "municipio_id_similar": "020230",
+    "municipio_nombre_similar": "Bolívar",
+    "distancia": 0.3919,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "170450",
+    "municipio_nombre_origen": "Baños",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.4636,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "170450",
+    "municipio_nombre_origen": "Baños",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.4884,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "110250",
+    "municipio_nombre_origen": "Alausí",
+    "municipio_id_similar": "010450",
+    "municipio_nombre_similar": "Rumiñahui",
+    "distancia": 0.3016,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "110250",
+    "municipio_nombre_origen": "Alausí",
+    "municipio_id_similar": "220001",
+    "municipio_nombre_similar": "Macas",
+    "distancia": 0.3451,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "110250",
+    "municipio_nombre_origen": "Alausí",
+    "municipio_id_similar": "060470",
+    "municipio_nombre_similar": "Jipijapa",
+    "distancia": 0.3857,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "110250",
+    "municipio_nombre_origen": "Alausí",
+    "municipio_id_similar": "030100",
+    "municipio_nombre_similar": "Gualaceo",
+    "distancia": 0.4016,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "110250",
+    "municipio_nombre_origen": "Alausí",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Santo Domingo",
+    "distancia": 0.4406,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "110170",
+    "municipio_nombre_origen": "Guano",
+    "municipio_id_similar": "020001",
+    "municipio_nombre_similar": "Tulcán",
+    "distancia": 0.2403,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "110170",
+    "municipio_nombre_origen": "Guano",
+    "municipio_id_similar": "180230",
+    "municipio_nombre_similar": "Pujilí",
+    "distancia": 0.2769,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "110170",
+    "municipio_nombre_origen": "Guano",
+    "municipio_id_similar": "200001",
+    "municipio_nombre_similar": "Tena",
+    "distancia": 0.3387,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "110170",
+    "municipio_nombre_origen": "Guano",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.42,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "110170",
+    "municipio_nombre_origen": "Guano",
+    "municipio_id_similar": "090110",
+    "municipio_nombre_similar": "Milagro",
+    "distancia": 0.4429,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "040170",
+    "municipio_nombre_origen": "Catamayo",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.2877,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "040170",
+    "municipio_nombre_origen": "Catamayo",
+    "municipio_id_similar": "230001",
+    "municipio_nombre_similar": "Ambato",
+    "distancia": 0.3125,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "040170",
+    "municipio_nombre_origen": "Catamayo",
+    "municipio_id_similar": "110001",
+    "municipio_nombre_similar": "Riobamba",
+    "distancia": 0.3586,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "040170",
+    "municipio_nombre_origen": "Catamayo",
+    "municipio_id_similar": "010230",
+    "municipio_nombre_similar": "Mejía",
+    "distancia": 0.3989,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "040170",
+    "municipio_nombre_origen": "Catamayo",
+    "municipio_id_similar": "090050",
+    "municipio_nombre_similar": "Daule",
+    "distancia": 0.4189,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "040350",
+    "municipio_nombre_origen": "Saraguro",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.1783,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "040350",
+    "municipio_nombre_origen": "Saraguro",
+    "municipio_id_similar": "180230",
+    "municipio_nombre_similar": "Pujilí",
+    "distancia": 0.2897,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "040350",
+    "municipio_nombre_origen": "Saraguro",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.3059,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "040350",
+    "municipio_nombre_origen": "Saraguro",
+    "municipio_id_similar": "100170",
+    "municipio_nombre_similar": "Otavalo",
+    "distancia": 0.3426,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "040350",
+    "municipio_nombre_origen": "Saraguro",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.42,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "020170",
+    "municipio_nombre_origen": "Espejo",
+    "municipio_id_similar": "170450",
+    "municipio_nombre_similar": "Baños",
+    "distancia": 0.1885,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "020170",
+    "municipio_nombre_origen": "Espejo",
+    "municipio_id_similar": "040001",
+    "municipio_nombre_similar": "Loja",
+    "distancia": 0.262,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "020170",
+    "municipio_nombre_origen": "Espejo",
+    "municipio_id_similar": "100350",
+    "municipio_nombre_similar": "Cotacachi",
+    "distancia": 0.3661,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "020170",
+    "municipio_nombre_origen": "Espejo",
+    "municipio_id_similar": "120001",
+    "municipio_nombre_similar": "Machala",
+    "distancia": 0.4241,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "020170",
+    "municipio_nombre_origen": "Espejo",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.453,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "020230",
+    "municipio_nombre_origen": "Bolívar",
+    "municipio_id_similar": "040001",
+    "municipio_nombre_similar": "Loja",
+    "distancia": 0.2904,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "020230",
+    "municipio_nombre_origen": "Bolívar",
+    "municipio_id_similar": "170450",
+    "municipio_nombre_similar": "Baños",
+    "distancia": 0.3919,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "020230",
+    "municipio_nombre_origen": "Bolívar",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.4614,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "020230",
+    "municipio_nombre_origen": "Bolívar",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.6815,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "020230",
+    "municipio_nombre_origen": "Bolívar",
+    "municipio_id_similar": "250001",
+    "municipio_nombre_similar": "Aguarico",
+    "distancia": 0.6916,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "180230",
+    "municipio_nombre_origen": "Pujilí",
+    "municipio_id_similar": "110170",
+    "municipio_nombre_similar": "Guano",
+    "distancia": 0.2769,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "180230",
+    "municipio_nombre_origen": "Pujilí",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.2897,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "180230",
+    "municipio_nombre_origen": "Pujilí",
+    "municipio_id_similar": "060001",
+    "municipio_nombre_similar": "Portoviejo",
+    "distancia": 0.3404,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "180230",
+    "municipio_nombre_origen": "Pujilí",
+    "municipio_id_similar": "200001",
+    "municipio_nombre_similar": "Tena",
+    "distancia": 0.3788,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "180230",
+    "municipio_nombre_origen": "Pujilí",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.4314,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "180350",
+    "municipio_nombre_origen": "Salcedo",
+    "municipio_id_similar": "100170",
+    "municipio_nombre_similar": "Otavalo",
+    "distancia": 0.2711,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "180350",
+    "municipio_nombre_origen": "Salcedo",
+    "municipio_id_similar": "160001",
+    "municipio_nombre_similar": "Quevedo",
+    "distancia": 0.4351,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "180350",
+    "municipio_nombre_origen": "Salcedo",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.4635,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "180350",
+    "municipio_nombre_origen": "Salcedo",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.534,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "180350",
+    "municipio_nombre_origen": "Salcedo",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.5395,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "100170",
+    "municipio_nombre_origen": "Otavalo",
+    "municipio_id_similar": "180350",
+    "municipio_nombre_similar": "Salcedo",
+    "distancia": 0.2711,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "100170",
+    "municipio_nombre_origen": "Otavalo",
+    "municipio_id_similar": "180001",
+    "municipio_nombre_similar": "Latacunga",
+    "distancia": 0.3187,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "100170",
+    "municipio_nombre_origen": "Otavalo",
+    "municipio_id_similar": "040350",
+    "municipio_nombre_similar": "Saraguro",
+    "distancia": 0.3426,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "100170",
+    "municipio_nombre_origen": "Otavalo",
+    "municipio_id_similar": "060170",
+    "municipio_nombre_similar": "Chone",
+    "distancia": 0.3812,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "100170",
+    "municipio_nombre_origen": "Otavalo",
+    "municipio_id_similar": "160001",
+    "municipio_nombre_similar": "Quevedo",
+    "distancia": 0.4435,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "100350",
+    "municipio_nombre_origen": "Cotacachi",
+    "municipio_id_similar": "150001",
+    "municipio_nombre_similar": "Santa Elena",
+    "distancia": 0.263,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "100350",
+    "municipio_nombre_origen": "Cotacachi",
+    "municipio_id_similar": "020170",
+    "municipio_nombre_similar": "Espejo",
+    "distancia": 0.3661,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "100350",
+    "municipio_nombre_origen": "Cotacachi",
+    "municipio_id_similar": "210001",
+    "municipio_nombre_similar": "Zamora",
+    "distancia": 0.4296,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "100350",
+    "municipio_nombre_origen": "Cotacachi",
+    "municipio_id_similar": "090150",
+    "municipio_nombre_similar": "Samborondón",
+    "distancia": 0.4575,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "100350",
+    "municipio_nombre_origen": "Cotacachi",
+    "municipio_id_similar": "050001",
+    "municipio_nombre_similar": "Babahoyo",
+    "distancia": 0.4762,
+    "ranking_similaridad": 5
+  },
+  {
+    "municipio_id_origen": "160170",
+    "municipio_nombre_origen": "Buena Fe",
+    "municipio_id_similar": "010170",
+    "municipio_nombre_similar": "Cayambe",
+    "distancia": 0.2622,
+    "ranking_similaridad": 1
+  },
+  {
+    "municipio_id_origen": "160170",
+    "municipio_nombre_origen": "Buena Fe",
+    "municipio_id_similar": "140001",
+    "municipio_nombre_similar": "Nueva Loja",
+    "distancia": 0.358,
+    "ranking_similaridad": 2
+  },
+  {
+    "municipio_id_origen": "160170",
+    "municipio_nombre_origen": "Buena Fe",
+    "municipio_id_similar": "130350",
+    "municipio_nombre_similar": "Atacames",
+    "distancia": 0.4206,
+    "ranking_similaridad": 3
+  },
+  {
+    "municipio_id_origen": "160170",
+    "municipio_nombre_origen": "Buena Fe",
+    "municipio_id_similar": "060680",
+    "municipio_nombre_similar": "Sucre",
+    "distancia": 0.4848,
+    "ranking_similaridad": 4
+  },
+  {
+    "municipio_id_origen": "160170",
+    "municipio_nombre_origen": "Buena Fe",
+    "municipio_id_similar": "010230",
+    "municipio_nombre_similar": "Mejía",
+    "distancia": 0.5107,
+    "ranking_similaridad": 5
+  }
+]

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Índice de Transparencia Municipal · Ecuador</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">
+            <span class="nav-logo">🏛️</span>
+            <span class="nav-title">Índice de Transparencia Municipal</span>
+        </div>
+        <div class="nav-links">
+            <a href="#ranking" class="nav-link active" data-view="ranking">Ranking</a>
+            <a href="#mapa" class="nav-link" data-view="mapa">Mapa</a>
+            <a href="#comparador" class="nav-link" data-view="comparador">Comparador</a>
+            <a href="#contratos" class="nav-link" data-view="contratos">Contratos</a>
+            <a href="#metodologia" class="nav-link" data-view="metodologia">Metodología</a>
+        </div>
+    </nav>
+
+    <!-- Hero / Stats -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>¿Qué tan transparente es tu municipio?</h1>
+            <p class="hero-subtitle">Compara el desempeño en transparencia entre municipios similares. Datos de compras públicas, declaraciones patrimoniales, auditorías y apertura de datos.</p>
+            <div class="hero-stats" id="heroStats">
+                <div class="stat-card">
+                    <div class="stat-value" id="statTotal">—</div>
+                    <div class="stat-label">Municipios analizados</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="statAvg">—</div>
+                    <div class="stat-label">Índice promedio</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="statMax">—</div>
+                    <div class="stat-label">Índice más alto</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="statMin">—</div>
+                    <div class="stat-label">Índice más bajo</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Panel de pesos -->
+    <section class="weights-panel" id="weightsPanel">
+        <div class="weights-header">
+            <h2>⚙️ Ajusta los pesos del índice</h2>
+            <button class="btn btn-secondary" id="resetWeights">Restablecer</button>
+        </div>
+        <div class="weights-grid">
+            <div class="weight-control">
+                <label>Apertura de datos <span class="weight-value" id="wAperturaVal">30%</span></label>
+                <input type="range" id="wApertura" min="0" max="100" value="30" class="slider">
+            </div>
+            <div class="weight-control">
+                <label>Compras públicas <span class="weight-value" id="wComprasVal">30%</span></label>
+                <input type="range" id="wCompras" min="0" max="100" value="30" class="slider">
+            </div>
+            <div class="weight-control">
+                <label>Rendición y auditoría <span class="weight-value" id="wRendicionVal">20%</span></label>
+                <input type="range" id="wRendicion" min="0" max="100" value="20" class="slider">
+            </div>
+            <div class="weight-control">
+                <label>Declaraciones patrimoniales <span class="weight-value" id="wDeclaracionesVal">20%</span></label>
+                <input type="range" id="wDeclaraciones" min="0" max="100" value="20" class="slider">
+            </div>
+        </div>
+        <div class="weights-total">
+            Suma total: <span id="weightsTotal">100%</span>
+            <span id="weightsWarning" class="weights-warning" style="display:none;">⚠️ La suma debe ser 100%</span>
+        </div>
+    </section>
+
+    <!-- Vista Ranking -->
+    <section class="view view-active" id="view-ranking">
+        <div class="view-header">
+            <h2>Ranking de Transparencia</h2>
+            <div class="filters">
+                <select id="filterProvince" class="filter-select">
+                    <option value="">Todas las provincias</option>
+                </select>
+                <input type="number" id="filterMinPop" placeholder="Pob. mín" class="filter-input">
+                <input type="number" id="filterMaxPop" placeholder="Pob. máx" class="filter-input">
+                <button class="btn btn-primary" id="applyFilters">Filtrar</button>
+            </div>
+        </div>
+        <div class="ranking-table-container">
+            <table class="ranking-table" id="rankingTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Municipio</th>
+                        <th>Provincia</th>
+                        <th>Población</th>
+                        <th class="sortable" data-sort="indice_transparencia">Índice ↓</th>
+                        <th>Apertura</th>
+                        <th>Compras</th>
+                        <th>Rendición</th>
+                        <th>Declaraciones</th>
+                        <th>Acción</th>
+                    </tr>
+                </thead>
+                <tbody id="rankingBody"></tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Vista Mapa -->
+    <section class="view" id="view-mapa">
+        <div class="view-header">
+            <h2>Mapa Coroplético</h2>
+            <div class="map-legend" id="mapLegend"></div>
+        </div>
+        <div class="map-container">
+            <svg id="mapSvg" viewBox="0 0 600 600"></svg>
+            <div class="map-tooltip" id="mapTooltip" style="display:none;"></div>
+        </div>
+    </section>
+
+    <!-- Vista Comparador -->
+    <section class="view" id="view-comparador">
+        <div class="view-header">
+            <h2>Comparador de Municipios Similares</h2>
+            <div class="comparator-selector">
+                <select id="comparatorMuni" class="filter-select">
+                    <option value="">Selecciona un municipio...</option>
+                </select>
+                <button class="btn btn-primary" id="loadComparator">Comparar</button>
+            </div>
+        </div>
+        <div class="comparator-results" id="comparatorResults">
+            <p class="placeholder-text">Selecciona un municipio para ver la comparación con municipios similares.</p>
+        </div>
+    </section>
+
+    <!-- Vista Contratos -->
+    <section class="view" id="view-contratos">
+        <div class="view-header">
+            <h2>Detalle de Contratos</h2>
+            <div class="filters">
+                <select id="contractsMuni" class="filter-select">
+                    <option value="">Selecciona un municipio...</option>
+                </select>
+                <select id="contractsYear" class="filter-select">
+                    <option value="2025">2025</option>
+                    <option value="2024">2024</option>
+                </select>
+                <button class="btn btn-primary" id="loadContracts">Cargar</button>
+            </div>
+        </div>
+        <div class="contracts-table-container" id="contractsTableContainer">
+            <p class="placeholder-text">Selecciona un municipio y año para ver los contratos.</p>
+        </div>
+    </section>
+
+    <!-- Vista Metodología -->
+    <section class="view" id="view-metodologia">
+        <div class="view-header">
+            <h2>Metodología</h2>
+        </div>
+        <div class="methodology-content">
+            <h3>Definición del Índice</h3>
+            <p>El Índice de Transparencia Municipal es una medida compuesta (0–100) que evalúa cuatro dimensiones clave de la transparencia en gobiernos locales del Ecuador.</p>
+
+            <h4>1. Apertura de Datos (30%)</h4>
+            <ul>
+                <li>Disponibilidad de portal de transparencia (30 pts)</li>
+                <li>Formatos abiertos de datos (25 pts)</li>
+                <li>API pública disponible (25 pts)</li>
+                <li>Datos actualizados (20 pts)</li>
+            </ul>
+
+            <h4>2. Compras Públicas (30%)</h4>
+            <ul>
+                <li>% de contratos por licitación pública vs adjudicación directa (40 pts)</li>
+                <li>% de contratación directa — menor es mejor (30 pts)</li>
+                <li>Concentración de proveedores (HHI) — menor concentración es mejor (30 pts)</li>
+            </ul>
+
+            <h4>3. Rendición y Auditoría (20%)</h4>
+            <ul>
+                <li>% de informes de auditoría publicados (40 pts)</li>
+                <li>% de recomendaciones de auditoría cumplidas (40 pts)</li>
+                <li>Ausencia de sanciones (20 pts)</li>
+            </ul>
+
+            <h4>4. Declaraciones Patrimoniales (20%)</h4>
+            <ul>
+                <li>% de autoridades con declaración pública (60 pts)</li>
+                <li>Tiempo de publicación — más rápido es mejor (40 pts)</li>
+            </ul>
+
+            <h3>Matching de Municipios Similares</h3>
+            <p>Para comparar municipios "parecidos", se utiliza el algoritmo k-nearest neighbors (KNN) sobre un espacio normalizado de features socioeconómicas: población, PIB per cápita, presupuesto municipal, densidad urbana, tasa de pobreza e IDH cantonal.</p>
+
+            <h3>Fuentes de Datos</h3>
+            <ul>
+                <li><strong>SERCOP</strong> — Servicio Nacional de Contratación Pública (contratos y licitaciones)</li>
+                <li><strong>Contraloría General del Estado</strong> — Informes de auditoría y sanciones</li>
+                <li><strong>INEC</strong> — Indicadores socioeconómicos</li>
+                <li><strong>Portales de transparencia municipal</strong> — Declaraciones patrimoniales</li>
+            </ul>
+
+            <h3>Consideraciones Éticas y Legales</h3>
+            <ul>
+                <li>Los datos personales sensibles son anonimizados.</li>
+                <li>No se publican acusaciones; se enlaza a documentos oficiales.</li>
+                <li>Los vacíos de datos se documentan; no se imputan sin evidencia.</li>
+                <li>Se incluye disclaimer y guía para periodistas/ciudadanos sobre interpretación.</li>
+            </ul>
+
+            <h3>Reproducibilidad</h3>
+            <p>El pipeline completo es reproducible: <code>scripts/ingest_procurement.py</code> → <code>src/etl/compute_metrics.py</code> → <code>src/compute_transparency_index.py</code> → <code>src/compute_similar_municipios.py</code>. Los pesos son ajustables desde la UI.</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>Índice de Transparencia Municipal · Ecuador · Datos abiertos para la ciudadanía</p>
+        <p class="footer-disclaimer">⚠️ Este índice se basa en datos públicos y tiene fines de transparencia y vigilancia ciudadana. No constituye una acusación. Consulte siempre las fuentes originales.</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
